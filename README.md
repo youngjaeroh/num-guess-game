@@ -22,5 +22,5 @@
 * CSS
 * Vanila Javascript
 
-## 
+## 웹페이지
 https://number-guess-game-yj.netlify.app/
