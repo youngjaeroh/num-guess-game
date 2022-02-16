@@ -21,3 +21,6 @@
 * HTML
 * CSS
 * Vanila Javascript
+
+## 
+https://number-guess-game-yj.netlify.app/
